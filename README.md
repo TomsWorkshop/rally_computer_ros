@@ -1,2 +1,2 @@
-# ros-rally-computer
-Rally Computer using ROS (RRC)
+# rally_computer_ros
+Rally Computer using ROS (RCR)
