@@ -1,7 +1,11 @@
 name: CI
 
 on: 
-  [push, pull_request]:
+  push:
+    paths-ignore:
+    - './rcr_circuit_design/**'
+    - './rcr_hardware_design/**'
+  pull_request:
     paths-ignore:
     - './rcr_circuit_design/**'
     - './rcr_hardware_design/**'
