@@ -1,0 +1,12 @@
+[submodule "rcr_system_pkg"]
+	path = rcr_system_pkg
+	url = git@github.com:calm0815/rcr_system_pkg.git
+[submodule "rcr_hardware_design"]
+	path = rcr_hardware_design
+	url = git@github.com:calm0815/rcr_hardware_design.git
+[submodule "rcr_sensor_pkg"]
+	path = rcr_sensor_pkg
+	url = git@github.com:calm0815/rcr_sensor_pkg.git
+[submodule "rcr_circuit_design"]
+	path = rcr_circuit_design
+	url = git@github.com:calm0815/rcr_circuit_design.git
